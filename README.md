@@ -36,37 +36,94 @@ Unity Game
 <li>Treant corrompido</li>
 </ul>
 
+<h1>Fase 3</h1>
+<h2>Inimigos Cap III</h2>
+<ul>
+<li>Mortos Vivos</li>
+<li>Cavaleiros Reais</li>
+<li>Cidadãos Desesperados</li>
+<li>Comandante Chefe (BOSS)</li>
+<li>Caes Zumbis</li>
+<li>Praga Branca (BOSS)</li>
+</ul>
+
 <h1> História </h1>
 
-<h2>Cap I - O retorno</h2>
-Morgram está em sua última batalha no norte do país. Ele garante o último salário como capitão para trazer conforto a sua familia. Porém, um mensageiro traz uma notícia que mudaria o curso de sua vitória...
+<strong>Sumário do Artigo</strong> 
+<h4>ATO I</h4>
+<ul>
+  <li><a href="ato1cap1">Capítulo I - Calabouço de Gurius</a></li>
+  <li><a href="ato1cap2">Capítulo II - Floresta Sussurante</a></li>
+  <li><a href="ato1cap3">Capítulo III - Expurgo se Alezansdra</a></li>
+</ul>
+<h4>ATO II</h4>
+<ul>
+  <li><a href="ato2cap4">Capítulo IV - Costa Leste de Zaverjan</a></li>
+  <li><a href="ato2cap5">Capítulo V - Campo de Prisioneiros</a></li>
+  <li><a href="ato2cap6">Capítulo VI - Armada</a></li>
+</ul>
+<h4>ATO III</h4>
+<ul>
+  <li><a href="ato3cap7">Capítulo VII - Jornada ao Norte (parte I)</a></li>
+  <li><a href="ato3cap8">Capítulo VIII - Jornada ao Norte (parte II)</a></li>
+  <li><a href="ato3cap9">Capítulo IX - Linha de Defesa de Gurius-Garhall</a></li>
+  <li><a href="ato3cap10">Capítulo X - Jornada ao Norte (parte III)</a></li>
+</ul>
+<h4>ATO IV</h4>
+<ul>
+  <li><a href="ato4cap11">Capítulo XI - Ponto de Inflexão</a></li>
+  <li><a href="ato4cap12">Capítulo XII - Respostas</a></li>
+  <li><a href="ato4cap13">Capítulo XIII - Forte Gurius-Garhall</a></li>
+  <li><a href="ato4cap14">Capítulo XIV - Capital Guriusa</a></li>
+  <li><a href="ato4cap15">Capítulo XV - Palacio Real</a></li>
+</ul>
 
-Morgram, ao retornar das campanhas nórdicas, vê seu país natal arrasado pela tiraria de seu novo rei, Albrean II, presenciando a destruição de sua vila por milicias, ladrões, a peste e a fome. Ao deparar que sua mãe fora morta e seu irmão, enviado para um campo de trabalho, por se revoltar contra a tirania do rei, resta ao herói de guerra a árdua missão de destrinchar o país em busca de resgate... e vingança. Morgram, capitão da quarta companhia de cavaleiros de Gurius, um dos grandes heroís das campanhas nórdicas, exímio estrategista. Possui habilidades com armas pesadas, tem dificuldade em uso com arcos e não é um condutor mágico, porém seu corpo tem grande resistencia mágica.
+<h2 id=ato1cap1>Cap I - O retorno</h2>
+<p>Morgram está em sua última batalha no norte do país. Ele garante o último salário como capitão para trazer conforto a sua familia. Porém, um mensageiro traz uma notícia que mudaria o curso de sua vitória...</p>
+
+<p>Morgram, ao retornar das campanhas nórdicas, vê seu país natal arrasado pela tiraria de seu novo rei, Albrean II, presenciando a destruição de sua vila por milicias, ladrões, a peste e a fome. Ao deparar que sua mãe fora morta e seu irmão, enviado para um campo de trabalho, por se revoltar contra a tirania do rei, resta ao herói de guerra a árdua missão de destrinchar o país em busca de resgate... e vingança. Morgram, capitão da quarta companhia de cavaleiros de Gurius, um dos grandes heroís das campanhas nórdicas, exímio estrategista. Possui habilidades com armas pesadas, tem dificuldade em uso com arcos e não é um condutor mágico, porém seu corpo tem grande resistencia mágica.</p>
 
 Obs.: a parte da magia ainda não sei se vou por
 
-Morgram, jogado em uma fria cela na prisão subterrânea de **, recobra sua consciência e analisa ao seu redor. Ele deve fugir, ele vai fugir... E ele buscará respostas...
+<p>Morgram, jogado em uma fria cela na prisão subterrânea de **, recobra sua consciência e analisa ao seu redor. Ele deve fugir, ele vai fugir... E ele buscará respostas...</p>
 
 <h3>1° Boss: Graharwan, Carcereiro Chefe de Gurius</h3>
 
-Por viver boa parte do tempo na prisão real, Graharwan desenvolveu fotofobia, porém conseguindo lutar em qualquer escuridão que as masmorras possuem. Sua arma principal, uma foice adaptada, presa em correntes, permite caçar qualquer prisioneiro que escape em longas distâncias, além de ser uma extensão de seu braço, compensando seu tamanho grande e lento, fom ataques precisos e longos. Além disso, sabe-se que Graharwan possuem afinidade com o fogo que, em ultima instancia, ele usará contra seus inimigos, mesmo que signifique cegar-se para isso.
+<p>Por viver boa parte do tempo na prisão real, Graharwan desenvolveu fotofobia, porém conseguindo lutar em qualquer escuridão que as masmorras possuem. Sua arma principal, uma foice adaptada, presa em correntes, permite caçar qualquer prisioneiro que escape em longas distâncias, além de ser uma extensão de seu braço, compensando seu tamanho grande e lento, fom ataques precisos e longos. Além disso, sabe-se que Graharwan possuem afinidade com o fogo que, em ultima instancia, ele usará contra seus inimigos, mesmo que signifique cegar-se para isso.</p>
 
-<h2>Cap 2 - A Floresta Sussurante</h2>
+<h2 id=ato1cap2>Cap II - A Floresta Sussurante</h2>
 
-De herói da nação para um rastejante de esgoto, Morgram perdeu seu prestígio e começava a perder o brilho que antes o seu título e conquistas lhe davam. Finalmente, na enorme floresta sussurante, ele começa a montar sua rota para velhos amigos. Se ele irá atrás de vingança, ele precisará de todo amigo... Ou inimigo.
+<p>De herói da nação para um rastejante de esgoto, Morgram perdeu seu prestígio e começava a perder o brilho que antes o seu título e conquistas lhe davam. Finalmente, na enorme floresta sussurante, ele começa a montar sua rota para velhos amigos. Se ele irá atrás de vingança, ele precisará de todo amigo... Ou inimigo.</p>
 
 <h3>Valr' M. Irian - Caxeiro Viajante</h3>
 
-Um homem moreno, de cabelos prateados e olhos vermelhos. Dito pelos rumores do continente como sendo um antigo Apóstolo da Guerra, durante a Era dos Dragões, e que hoje vaga entre mundos e tempos para cumprir propósitos incertos. Sua simpatia e mistério rondam sua história, bem como seus produtos, ditos serem de primeira categoria.
+<p>Um homem moreno, de cabelos prateados e olhos vermelhos. Dito pelos rumores do continente como sendo um antigo Apóstolo da Guerra, durante a Era dos Dragões, e que hoje vaga entre mundos e tempos para cumprir propósitos incertos. Sua simpatia e mistério rondam sua história, bem como seus produtos, ditos serem de primeira categoria.</p>
 
-Valr é um hibrido da raça extinta dos Gigantes com demônios, tendo 3m de altura e uma estrutura corporal intimidante, em contraste com sua personalidade gentil e descontraída de mercador
+<p>Valr é um hibrido da raça extinta dos Gigantes com demônios, tendo 3m de altura e uma estrutura corporal intimidante, em contraste com sua personalidade gentil e descontraída de mercador</p>
 
 <h3>Mestrexaj - 5° Herói de Gurius</h3>
 
-Conhecido pelas canções como As Quatro Setas do Rei, ou A Flecha do Mestrexaj saiu de um campo de escravos para os frontes como General da 8° Legião de Gurius. Sua perícia com arco o tornou digno de empunhar um dos 3 itens celestiais em posse de Gurius - Aberthrell (O corte dos ventos).
+<p>Conhecido pelas canções como As Quatro Setas do Rei, ou A Flecha do Mestrexaj saiu de um campo de escravos para os frontes como General da 8° Legião de Gurius. Sua perícia com arco o tornou digno de empunhar um dos 3 itens celestiais em posse de Gurius - Aberthrell (O corte dos ventos).</p>
+
+<h3 id=ato1cap3>Cap III - Expurgo de Alezansdra</h3>
+
+<p>Morgram atravessa a Floresta Sussurante e chega em Alezansdra, que fora palco do Grande Expurgo. A Praga Branca se apossou dos corpos abandonados nas ruas, e os mortos se levantam enquanto um caos toma conta da cidade, enquanto as forças reais cumprem as ordens do Rei, e os cidadãos, lutam desesperadamente por suas vidas</p>
 
 <h2>Lendas do Continente </h2>
 
 <h3>A Era dos Dragões (1-12333)</h3>
 
-Quando os deuses e criaturas ainda andavam no mesmo plano, os dragões eram as criaturas predominantes no mundo. Uma era de muitas criações, civilizações... e guerras. A maior de todas, A Apoteose dos Dragões, envolveu o Deus da Guerra, Candam, e os dragões contra os outros deuses e a humanidade. Uma guerra que durou de 11700 até 12333, que se encerraria com a queda de Candam e seus apóstolos, bem como a extinção dos dragões.
+<p>Quando os deuses e criaturas ainda andavam no mesmo plano, os dragões eram as criaturas predominantes no mundo. Uma era de muitas criações, civilizações... e guerras. A maior de todas, A Apoteose dos Dragões, envolveu o Deus da Guerra, Candam, e os dragões contra os outros deuses e a humanidade. Uma guerra que durou de 11700 até 12333, que se encerraria com a queda de Candam e seus apóstolos, bem como a extinção dos dragões.</p>
+
+<h3>Os 6 Heróis de Gurius</h3>
+
+<p>Gurius atualmente é o país mais antigo do continente, tendo suas raízes na união das coroas de Gurvalihan e Iustar, no ano 406 da Era dos Alto Lordes (399 D.D - 815 D.D) até o ano atual, 1433 D.D,  e durante seus mais de 1000 anos de história, houve 6 heróis que carregaram a vontade do país:</p>
+
+<ol>
+  <li> Leberius, O Santo (388 -- 411) </li>
+  <li> Dignius, A Falange Real (552 -- 597 )</li>
+  <li> Godfrey, O Matador do Rei (580 -- 660 )</li>
+  <li> Verrifur, O Rei-Campeão (992 -- 1020 )</li>
+  <li> Mestrexaj, das Quatro Setas do Rei (1100 -- 1155)</li>
+  <li> Morgram, Libertador do Norte (1412 -- Atualmente)</li>
+<ol>
