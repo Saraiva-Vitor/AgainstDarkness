@@ -49,34 +49,33 @@ Unity Game
 
 <h1> História </h1>
 
-<strong>Sumário do Artigo</strong> 
+<h3>Índice</h3> 
 <h4>ATO I</h4>
-<ul>
-  <li><a href="ato1cap1">Capítulo I - Calabouço de Gurius</a></li>
-  <li><a href="ato1cap2">Capítulo II - Floresta Sussurante</a></li>
-  <li><a href="ato1cap3">Capítulo III - Expurgo se Alezansdra</a></li>
-</ul>
+
+* [Capítulo I - Calabouço de Gurius](#ato1cap1)
+* [Capítulo II - Floresta Sussurante](#ato1cap2)
+* [Capítulo III - Expurgo se Alezansdra](#ato1cap3)
+
 <h4>ATO II</h4>
-<ul>
-  <li><a href="ato2cap4">Capítulo IV - Costa Leste de Zaverjan</a></li>
-  <li><a href="ato2cap5">Capítulo V - Campo de Prisioneiros</a></li>
-  <li><a href="ato2cap6">Capítulo VI - Armada</a></li>
-</ul>
+
+* [Capítulo IV - Costa Leste de Zaverjan](#ato2cap4)
+* [Capítulo V - Campo de Prisioneiros](#ato2cap5)
+* [Capítulo VI - Armada](#ato2cap6)
+
 <h4>ATO III</h4>
-<ul>
-  <li><a href="ato3cap7">Capítulo VII - Jornada ao Norte (parte I)</a></li>
-  <li><a href="ato3cap8">Capítulo VIII - Jornada ao Norte (parte II)</a></li>
-  <li><a href="ato3cap9">Capítulo IX - Linha de Defesa de Gurius-Garhall</a></li>
-  <li><a href="ato3cap10">Capítulo X - Jornada ao Norte (parte III)</a></li>
-</ul>
+
+* [Capítulo VII - Jornada ao Norte (parte I)](#ato3cap7)
+* [Capítulo VIII - Jornada ao Norte (parte II)](#ato3cap8)
+* [Capítulo VIII - Jornada ao Norte (parte II)](#ato3cap9)
+* [Capítulo X - Jornada ao Norte (parte III)](#ato3cap10)
+
 <h4>ATO IV</h4>
-<ul>
-  <li><a href="ato4cap11">Capítulo XI - Ponto de Inflexão</a></li>
-  <li><a href="ato4cap12">Capítulo XII - Respostas</a></li>
-  <li><a href="ato4cap13">Capítulo XIII - Forte Gurius-Garhall</a></li>
-  <li><a href="ato4cap14">Capítulo XIV - Capital Guriusa</a></li>
-  <li><a href="ato4cap15">Capítulo XV - Palacio Real</a></li>
-</ul>
+
+* [Capítulo XI - Ponto de Inflexão](#ato4cap11)
+* [Capítulo XII - Respostas](#ato4cap12)
+* [Capítulo XIII - Forte Gurius-Garhall](#ato4cap13)
+* [Capítulo XIV - Capital Guriusa](#ato4cap14)
+* [Capítulo XV - Palacio Real](#ato4cap15)
 
 <h2 id=ato1cap1>Cap I - O retorno</h2>
 <p>Morgram está em sua última batalha no norte do país. Ele garante o último salário como capitão para trazer conforto a sua familia. Porém, um mensageiro traz uma notícia que mudaria o curso de sua vitória...</p>
