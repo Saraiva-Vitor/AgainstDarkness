@@ -3,9 +3,9 @@ Unity Game
 
 <h1> Para implementar </h1>
 <ul>
-  <li>Sistema de reputação</li>
-  <li>Sistema de sanidade</li>
-  <li>Sistema de possessão</li>
+  <li>- [ ] Sistema de reputação</li>
+  <li>- [ ] Sistema de sanidade</li>
+  <li>- [ ] Sistema de possessão</li>
 </ul>
 
 <h1> Fase 1 -- Masmorra/Prisão </h1>
