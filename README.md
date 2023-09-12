@@ -1,5 +1,6 @@
-<h1> AgainstDarkness </h1>
-Unity Game
+<h1> Against Darkness </h1>
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <h1> Para implementar </h1>
 <ul>
