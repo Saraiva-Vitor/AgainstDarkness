@@ -111,6 +111,28 @@ Obs.: a parte da magia ainda não sei se vou por
 
 <p>Morgram atravessa a Floresta Sussurante e chega em Alezansdra, que fora palco do Grande Expurgo. A Praga Branca se apossou dos corpos abandonados nas ruas, e os mortos se levantam enquanto um caos toma conta da cidade, enquanto as forças reais cumprem as ordens do Rei, e os cidadãos, lutam desesperadamente por suas vidas</p>
 
+<h3>Comandante-Chefe da 15° Legião de Gurius - Grosverius Sarta</h3>
+
+<p>O poderio militar de Gurius é dividido em 15 legiões, distribuindo o poder e autoridade em cada uma. A 15° Legião, considerada a mais fraca, não fica atrás de um exército forte, mas apenas é um senso comum na hierarquia. Parte disso está em Grosverius, que por 10 anos conduziu a legião em inúmeras campanhas, ganhando notoridade aos seus homens. Infelizmente, o ar pútredo do palácio chegou nos militares, e Grosverius passou a ser mais um oficial que ofuscou suas conquistas... com sua corrupção. Uma praga se dissemina na cidade costeira de  Alezansdra, e a 15° legião, a mando real, irá fazer a erradicação da doença... por todos os meios necessários...</p>
+
+<h3 id=ato2cap4>Cap IV - Costa Leste de Zaverjan</h3>
+
+<p>Após a partida abrupta da cidade de Alezansdra, Morgram, acompanhado pelos refugiados, recebe ajuda de velhos amigos de jornada, para irem até a cidade portuária de Zaverjan,  aonde poderão encontrar os navios que os levarão até o arquipelago local. Zaverjan e suas ilhas compõem a Federação Oriental de Gurius, um dos 2 estados federativos do país, aonde o Rei de Gurius não rege total soberania, mas possui mais uma figura de representação, devido a importância e poder desse estado.</p>
+
+<p>Além disso, há a história de que Godfrey, o Matador do Rei e 3° Herói de Gurius, estar descansando na ilha Zoust.</p>
+
+<p>Sobre o capitulo: um capitulo de transição, aonde Zaverjan é uma safe zone, com quests, mistérios, lore. Após o jogador obter a alma de Godfrey, ele poderá seguir a historia principal, Cap V, ou voltar para outras regiões, que podem conter segredos e desafios.</p>
+
+Franz Gardner - Alto Lorde de Zaverjan
+Gos Jhorney - General de Campanha de Zaverjan
+
+<h3 id=ato2cap5>Cap V - Terra dos Prisioneiros Gallederhal</h3>
+
+<p>Morgram recebeu informações dos espiões de Gardner que seu irmão, Kuster, está na Zona C dos campos de Gallederhall. Uma força tarefa será infiltrada, junto com Morgram, na região, para libertar não só o Kuster, mas todos os prisioneiros de guerra e inimigos políticos de Albrean II. Também há indícios de que o tumulo de Verrifur se encontra na região.</p>
+
+<h3 id=ato2cap6>Cap VI - A Armada</h3>
+<p>Zaverjan declara oficialmente guerra a Gurius. Com o Exército de Zaverjan, os prisioneiros de Gallederhall e outras regiões que fogem da tirania de Albrean, é formado a Armada Livre dos Heróis, com Morgram sendo a figura símbolo da força militar. O objetivo agora é suprir o exército com todas as provisões possíveis e se preparar para uma possível aliança com um antigo inimigo: o grande clan dos 12 sabres, Radav'ishkorrol</p>
+
 <h2>Lendas do Continente </h2>
 
 <h3>A Era dos Dragões (1-12333)</h3>
@@ -129,3 +151,7 @@ Obs.: a parte da magia ainda não sei se vou por
   <li> Mestrexaj, das Quatro Setas do Rei (1100 -- 1155)</li>
   <li> Morgram, Libertador do Norte (1412 -- Atualmente)</li>
 <ol>
+
+<h2>Registros de Gurius</h2>
+<h3>Morgram</h3>
+<p>Nascido de uma casta nobre de cavaleiros, Morgram serviu por 7 anos nas campanhas nortenhas, como comandante chefe da 14° Legião. Apesar disso, seus méritos foram tantos que ele galgou prestígio do antigo rei, e fora nominado com título de Herói Libertador do Norte, se consagrando entre os heróis da história de Gurius. Mas quanto mais alto o cume, mas fundo é a queda...</p>
